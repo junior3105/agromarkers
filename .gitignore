@@ -1,0 +1,27 @@
+# Arquivos e pastas gerados automaticamente pelo Django
+*.pyc
+__pycache__/
+db.sqlite3
+media/*
+staticfiles/*
+
+# Ambiente virtual
+venv/
+env/
+
+# Arquivos de configuração local
+local_settings.py
+
+# Logs
+*.log
+
+# Arquivos de IDEs e editores de texto
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Arquivos de sistema operacional
+.DS_Store
+
+# Outras pastas ou arquivos que você não deseja versionar
